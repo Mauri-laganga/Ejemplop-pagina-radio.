@@ -259,7 +259,7 @@
     margin-block-end: 10px;
   }
   
-  .section-title::after {
+  .section-title::after { 
     
     position: absolute;
     top: 100%;
